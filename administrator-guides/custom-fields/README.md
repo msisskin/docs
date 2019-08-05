@@ -33,7 +33,7 @@ Make sure to use a valid `JSON` where `keys` are the `field names` containing a 
 }
 ```
 
-In this example we are setting two new fields, we will go over each proadressperty of these fields:
+In this example we are setting two new fields, we will go over each address property of these fields:
 
 - **type**: This defines the type of the field, currently we have 2 types: `select` and `text`. Where `select` creates a dropdown list and `text` creates a plain text form.
 
